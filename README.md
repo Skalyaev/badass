@@ -13,5 +13,5 @@
 ## Checklist
 
 - [x] Partie 1: GNS3
-- [ ] Partie 2: VXLAN
+- [x] Partie 2: VXLAN
 - [ ] Partie 3: BGP & EVPN
