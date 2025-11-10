@@ -14,4 +14,4 @@
 
 - [x] Partie 1: GNS3
 - [x] Partie 2: VXLAN
-- [ ] Partie 3: BGP & EVPN
+- [x] Partie 3: BGP & EVPN

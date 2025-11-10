@@ -2,7 +2,7 @@
 set -e
 
 SELF_IF=eth1 # Interface réseau reliée au routeur.
-SELF_IP=30.1.1.2/24 # Adresse IP de l’hôte dans le réseau.
+SELF_IP=20.1.1.1/24 # Adresse IP de l’hôte dans le réseau.
 
 # Assigne une adresse IP à l’interface réseau reliée au routeur.
 # Identifie l'hôte sur le réseau.
